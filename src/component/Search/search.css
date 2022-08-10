@@ -1,0 +1,10 @@
+.btn-search {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+::-webkit-input-placeholder { 
+    color: #00bfa5;
+ }
+

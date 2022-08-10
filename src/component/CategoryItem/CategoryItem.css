@@ -1,0 +1,31 @@
+.card {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.card-content {
+    position: relative;
+    flex-grow: 1;
+}
+
+
+
+.btn-abs {
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+}
+
+.time {
+    margin: 15px;
+}
+
+.card-title.activator.grey-text.text-darken-4 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.material-icons {
+    vertical-align: middle;
+}

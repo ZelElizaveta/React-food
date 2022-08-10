@@ -1,0 +1,9 @@
+.wpapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-filter {
+    width: 7rem;
+    margin-bottom: 15px;
+}
