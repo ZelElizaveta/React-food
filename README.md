@@ -1,1 +1,1 @@
-Проект для портфолио, с использованием  API 'https://themealdb.com/api.php'. Demo ('') 
+Проект для портфолио, с использованием  API 'https://spoonacular.com/food-api'. Demo ('https://zelelizaveta.github.io/React-food/') 

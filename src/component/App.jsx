@@ -15,7 +15,7 @@ import Filter from "./pages/Filter";
 function App() {
   return (
     <>
-      <Router>
+      <Router basename="/React-food">
         <Header/>
           <ContextProvider>
             <main className="container content">
